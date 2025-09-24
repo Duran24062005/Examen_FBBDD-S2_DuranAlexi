@@ -53,3 +53,7 @@ Para desarrollar dicho exámen se deben tener los siguientes puntos en cuenta:
     f. Creación del modelo UML tipo E-R basado en el estándar de MySQL Workbench.
 
 - Solamente se permitirá usar MySQL, MySQL Workbench, LucidChart y draw.io para la construcción de dicho exámen.
+
+
+
+- 📚 [Documentation in Doxc](https://docs.google.com/document/d/129qTbu9FIIWu5RkJWKAbexOomERC_YCj/edit?usp=sharing&ouid=114885156140019858076&rtpof=true&sd=true)
