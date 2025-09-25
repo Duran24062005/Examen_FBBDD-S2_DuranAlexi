@@ -57,3 +57,5 @@ Para desarrollar dicho exámen se deben tener los siguientes puntos en cuenta:
 
 
 - 📚 [Documentation in Doxc](https://docs.google.com/document/d/129qTbu9FIIWu5RkJWKAbexOomERC_YCj/edit?usp=sharing&ouid=114885156140019858076&rtpof=true&sd=true)
+
+- 📚 [Docs](./Docs_Examen_FBBDD-S2_DuranAlexi.docx.pdf)
